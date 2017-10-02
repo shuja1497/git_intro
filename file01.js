@@ -1,6 +1,6 @@
 
 function hel(name){
-	console.log("hello world" + name)
+	console.log("babadoook" + name)
 }
 
 hel('shuja')
